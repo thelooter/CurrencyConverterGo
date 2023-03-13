@@ -4,14 +4,14 @@
 # Currency Converter Go
 
 Currency Converter Go is a simple currency converter written in Go. 
-It uses the [Exchange Rates API](https://exchangeratesapi.io/) to get the latest exchange rates.
+It uses the [Exchange Rate API](https://www.exchangerate-api.com/) to get the latest exchange rates.
 
 </div>
 
 ## Requirements
 
 - Go 1.20
-- [Exchange Rates API](https://exchangeratesapi.io/) account
+- [Exchange Rate API](https://www.exchangerate-api.com/) account
 
 ## Installation
 
